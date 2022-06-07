@@ -1,8 +1,10 @@
-In the project directory, you can run:
+Tests status
+[![CI](https://github.com/leteli/byndyusoft-test/actions/workflows/check.yml/badge.svg)](https://github.com/leteli/byndyusoft-test/actions/workflows/check.yml)
+
+Technical test for Byndyusoft frontend internship.
 
 npm start
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+[http://localhost:3000](http://localhost:3000)
 
 npm test
 
